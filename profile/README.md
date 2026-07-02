@@ -1,6 +1,6 @@
 <div align="center">
 
-# ODW·AI
+# ODW.ai · 点应智能
 
 ### Open-source operational AI for the world's small and medium businesses
 
